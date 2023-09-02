@@ -1,0 +1,8 @@
+body{background:pink;font-family: 'Roboto', sans-serif;}
+
+.navbar-light .navbar-brand ,.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link {
+    color: rgb(255,0,0);
+}
+.bg-light {
+    background-color: grey!important;
+}
